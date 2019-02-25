@@ -1,6 +1,6 @@
 {
   "name": "affinity-platform",
-  "version": "0.1",
+  "version": "0.0.1",
   "description": "A data-driven Component-based distributed plugin architecture",
   "bin": {
     "chimera": "tools/run.js",
