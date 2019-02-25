@@ -1,7 +1,7 @@
 {
-  "name": "chimera-framework",
-  "version": "0.0.94",
-  "description": "Language agnostic framework for stand-alone and distributed computing",
+  "name": "affinity-platform",
+  "version": "0.1",
+  "description": "A data-driven Component-based distributed plugin architecture",
   "bin": {
     "chimera": "tools/run.js",
     "chimera-echo": "tools/echoMany.js",
@@ -16,10 +16,11 @@
   "keywords": [
     "framework",
     "chain",
-    "orchestration",
+    "component",
+    "data driven",
     "language agnostic"
   ],
-  "author": "goFrendi",
+  "author": "alexander34ro",
   "license": "MIT",
   "dependencies": {
     "bluetooth-serial-port": "^2.2.1",
@@ -53,12 +54,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/goFrendiAsgard/chimera-framework.git"
+    "url": "https://github.com/alexander34ro/affinity-platform"
   },
   "bugs": {
-    "url": "https://github.com/goFrendiAsgard/chimera-framework/issues"
+    "url": "https://github.com/alexander34ro/affinity-platform/issues"
   },
-  "homepage": "https://github.com/goFrendiAsgard/chimera-framework#readme",
+  "homepage": "https://github.com/alexander34ro/affinity-platform#readme",
   "main": "index.js",
   "directories": {
     "test": "tests"
