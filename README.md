@@ -1,14 +1,10 @@
-<h1 align="center">Chimera-Framework</h1>
-
-<div align="center">
-  <img src="logo.png" />
-</div>
-<br />
-<div align="center">
-  <strong>Language Agnostic Framework for Stand-alone and Distributed Computing</strong>
+<h1>Affinity Platform</h1>
+<div>
+  <strong>A data-driven Component-based distributed plugin architecture</strong>
 </div>
 <br />
 
+<!--
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 [![codecov](https://codecov.io/gh/goFrendiAsgard/chimera-framework/branch/master/graph/badge.svg)](https://codecov.io/gh/goFrendiAsgard/chimera-framework)
 <a href="https://gitter.im/chimera-framework?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge"><img src="https://badges.gitter.im/Join Chat.svg" alt="Gitter"></a>
@@ -59,8 +55,14 @@ Hi Naomi today is Mon Feb  5 22:10:37 WIB 2018
 * [Creating simple web application](https://github.com/goFrendiAsgard/chimera-framework/wiki/Getting-Started#web-app)
 * [Content Management System (CMS)](https://github.com/goFrendiAsgard/chimera-framework/wiki/Content-Management-System-(CMS))
 
+-->
+
 # License
-Chimera-Framework is released under the MIT License.
+The Affinity Platform is released under the MIT License.
 
 # Citation
+Based on Chimera-Framework [http://ieeexplore.ieee.org/document/8320654/](http://ieeexplore.ieee.org/document/8320654/)
+
+<!--
 If you publish any article related to Chimera-Framework, please cite our paper on [http://ieeexplore.ieee.org/document/8320654/](http://ieeexplore.ieee.org/document/8320654/)
+-->
