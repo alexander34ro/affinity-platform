@@ -1,0 +1,8 @@
+{
+  "name": "Affinity Platform",
+  "description": "Fork of the Chimera framework adapted for the Affinity Platform framework",
+  "version": "0.0.1",
+  "ins": [],
+  "out": [],
+  "config_options": []
+}
